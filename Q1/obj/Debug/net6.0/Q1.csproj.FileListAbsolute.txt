@@ -1,0 +1,15 @@
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\bin\Debug\net6.0\Q1.exe
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\bin\Debug\net6.0\Q1.deps.json
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\bin\Debug\net6.0\Q1.runtimeconfig.json
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\bin\Debug\net6.0\Q1.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\bin\Debug\net6.0\Q1.pdb
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.csproj.AssemblyReference.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.AssemblyInfoInputs.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.AssemblyInfo.cs
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.csproj.CoreCompileInputs.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\refint\Q1.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.pdb
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\Q1.genruntimeconfig.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\Q1\obj\Debug\net6.0\ref\Q1.dll
